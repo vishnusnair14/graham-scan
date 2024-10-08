@@ -1,6 +1,6 @@
 ## JavaScript Graham's Scan Convex Hull Algorithm
 
-I required a simple implementation to calculate a convex hull from a given array of x, y coordinates,
+Simple implementation to calculate a convex hull from a given array of x, y coordinates,
 the convex hull's in js I found either were a little buggy, or required dependencies on other libraries.
 This implementation just takes the x,y coordinates, no other libraries are needed.
 
