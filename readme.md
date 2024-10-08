@@ -51,8 +51,6 @@ The source is tested with qUnit, tests executed with Google's JS Test Driver.
 	    return S
 
 ### References
-
-* http://www.personal.kent.edu/~rmuhamma/Compgeometry/MyCG/ConvexHull/GrahamScan/grahamScan.htm
 * http://en.wikipedia.org/wiki/Graham_scan
 
 ### License
